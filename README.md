@@ -3,7 +3,7 @@
 Personal portfolio of **Evelyn Simin (沈寶婷)**, Computer Science student at BINUS University.
 Pond-and-lotus theme with a light mode ("Morning pond") and a dark mode ("Night pond").
 
-**Live site:** https://my-portfolio-opal-five-81.vercel.app
+**Live site:** https://evelyn-portfolio-nine.vercel.app/
 
 ---
 
